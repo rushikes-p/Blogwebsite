@@ -1,0 +1,15 @@
+{"_id":{"$oid":"66180301219584d62daa7553"},
+"title":"How AI affect Job Market",
+"description":"AI vs JOB.","markdown":"The impact of AI on jobs is multifaceted. On one hand, AI has led to automation of repetitive and routine
+ tasks across various industries, leading to displacement of certain jobs. Roles that involve manual labor, 
+data entry, and basic decision-making processes are increasingly being replaced by AI-driven systems, leading
+ to concerns about job loss and unemployment in those sectors. However, on the other hand, AI has also 
+new job opportunities, particularly in fields such as data science, machine learning, and AI development. Thes
+e roles require human expertise to train"
+,"createdAt":"2024-04-11",
+"slug":"uhrthof",
+"sanitizedHtml":"The impact of AI on jobs is multifaceted. On one hand, AI has led to automation of repetitive
+ and routine tasks across various industries, leading to displacement of certain jobs. Roles that involve man
+ual labor, data entry, and basic decision-making processes are increasingly being replaced by AI-driven systems,
+ leading to concerns about job loss and unemployment in those sectors. However, on the other hand, AI has also creat
+ed new job opportunities, particularly in fields such as data science, machine learning, and AI development. These roles require human expertise to train"}
